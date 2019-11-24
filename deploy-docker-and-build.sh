@@ -4,7 +4,7 @@
 xhost SI:localuser:root
 mkdir -p /home/developer
 
-docker build -t marilyn-sophiabot-mod  . --no-cache
-docker run -it --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix --device /dev/snd c4pt/marilyn-current-sophiabot:mod
+docker build -t marilyn  . --no-cache
+docker run -it --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix --device /dev/snd c4pt/marilyn
 
 
