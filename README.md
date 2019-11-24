@@ -1,6 +1,6 @@
 https://github.com/c4pt000/Tanya-KateTTS-RealDoll-mod-sophiabot
 
-https://github.com/c4pt000/HarrisonF-TTS
+https://github.com/c4pt000/Harrison-mod-OpenCOG
 
 * 11-22-2019
 * fedora 31
