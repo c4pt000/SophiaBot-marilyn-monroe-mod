@@ -1,4 +1,4 @@
-https://github.com/c4pt000/Tanya-KateTTS-RealDoll-mod-sophiabot
+https://github.com/c4pt000/Tanya-Kate-RealDoll-mod-sophiabot
 
 https://github.com/c4pt000/Harrison-mod-OpenCOG
 
