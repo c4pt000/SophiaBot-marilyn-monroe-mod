@@ -1,3 +1,6 @@
+todo
+* fix time and date errors based on docker remote server NTP out of location time zone
+
 https://github.com/c4pt000/Tanya-Kate-RealDoll-mod-sophiabot
 
 https://github.com/c4pt000/Harrison-mod-OpenCOG
