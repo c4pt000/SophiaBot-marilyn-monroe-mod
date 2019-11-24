@@ -17,3 +17,4 @@ for offline or online execution of last image
 
 start.sh
 
+<p align="center"><img src="https://i.imgur.com/hDqUq1m.png " width="1280"></p>
