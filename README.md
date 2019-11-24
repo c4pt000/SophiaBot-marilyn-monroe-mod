@@ -7,7 +7,7 @@ https://github.com/c4pt000/Harrison-mod-OpenCOG
 
 ```cd /opt```
 
-```git clone https://github.com/c4pt000/SophiaBotTTS-marilyn-monroe-mod```
+```https://github.com/c4pt000/SophiaBot-marilyn-monroe-mod
 
 ```sh Docker-build-and-deploy.sh```
 
