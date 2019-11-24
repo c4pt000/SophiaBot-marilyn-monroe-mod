@@ -5,18 +5,12 @@ https://github.com/c4pt000/Harrison-mod-OpenCOG
 * 11-22-2019
 * fedora 31
 
-```cd /opt```
 
-```https://github.com/c4pt000/SophiaBot-marilyn-monroe-mod
 
-```sh Docker-build-and-deploy.sh```
-
-```cd /opt/Sophia-bot/```
-
-```python run_server.py &```
-
-```sh 2nd_Sophia-client.sh```
-
+* cd /opt
+* https://github.com/c4pt000/SophiaBot-marilyn-monroe-mod
+* sh Docker-build-and-deploy.sh```
+* $ marilyn
 * 11-23-2019
 
 for offline or online execution of last image
