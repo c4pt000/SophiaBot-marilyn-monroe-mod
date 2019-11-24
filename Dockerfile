@@ -1,4 +1,4 @@
-FROM c4pt/marilyn-current-sophiabot:mod
+FROM c4pt/marilyn
 
 
 RUN apt-get update && apt-get install pulseaudio-utils procps pulseaudio sudo x11-xserver-utils -y && DEBIAN_FRONTEND=noninteractive
