@@ -6,6 +6,21 @@ docker run -it --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix --devic
 
 ```
 
+
+<br>
+* has to be the only audio stream using alsa or pulseaudio if something else is using the audio resources such as vlc or youtube audio
+<br>
+* the bot will have errors with no audio via alsa or pulseaudio mapping
+<br>
+<br>
+<br>
+<br>
+* ALSA lib pcm_dmix.c:1108:(snd_pcm_dmix_open) unable to open slave
+<br>
+* aplay: main:828: audio open error: Device or resource busy
+<br>
+<br>
+
 # Sophia-bot
 
 template build design is garbage from too many variables inter mixing into disconnected logical meanings to an extent,
